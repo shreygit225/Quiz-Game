@@ -15,8 +15,7 @@ int main()
  char playername[20];
  mainhome:
  system("cls");
- printf("\tProject By:\n\t\tRishabh Singh\t\t 60019210016\n\t\tRiya Parekh\t\t 60019210100\n\t\tShrey
-Gandhi\t\t 60019210015\n\t\tSrushti Borvadkar\t 60019210032\n\t\tVidhi Sheth\t\t 60019210020\n\n");
+ printf("Shrey Gandhi");
  printf("\t\t\tC PROGRAM QUIZ GAME\n");
  printf("\n\t\t________________________________________");
  printf("\n\t\t\t WELCOME ");
